@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moataz-bahaa" alt="moataz-bahaa" /></a> </p>
 
-- 🔭 I’m currently working on ERP sytstem for Inframil -> Email software company in US [Inframail](http://inframail.io)
+- 🔭 I’m currently working on Inframil -> Email software company in US [Inframail](http://inframail.io)
 
 - 🌱 I’m currently learning **NextJs**
 
