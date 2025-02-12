@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moataz-bahaa" alt="moataz-bahaa" /></a> </p>
 
-- 🔭 I’m currently working on ERP sytstem for MATRIX company in Saudi Arabia [ERP](http://yasay007-001-site7.ftempurl.com/)
+- 🔭 I’m currently working on ERP sytstem for Inframil -> Email software company in US [Inframail](http://inframail.io)
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **react, redux, nodejs, mysql, mongodb, firebase, javascript, typescript**
+- 💬 Ask me about **react, redux, nodejs, mysql, mongodb, firebase, supabase, javascript, typescript**
 
 - 📫 How to reach me **moatazbahaa20@gmail.com**
 
